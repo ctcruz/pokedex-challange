@@ -112,7 +112,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pokemon-app.git
+git clone https://github.com/ctcruz/pokedex-challenge.git
 cd pokemon-app
 ```
 
