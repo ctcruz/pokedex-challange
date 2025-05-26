@@ -113,7 +113,7 @@ src/
 
 ```bash
 git clone https://github.com/ctcruz/pokedex-challenge.git
-cd pokemon-app
+cd pokedex-challenge
 ```
 
 ### 2. Install dependencies
