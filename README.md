@@ -152,6 +152,8 @@ The application can be deployed using **Vercel**, **Netlify**, or any static hos
 4. Use search or navigate through pagination.
 5. Click on a Pokémon to view its details in a modal.
 
+[Watch the demo](./assets/pokemon-app.mp4)
+
 ---
 
 ## 📈 Performance and Best Practices
@@ -179,6 +181,9 @@ The application can be deployed using **Vercel**, **Netlify**, or any static hos
 - Implement **Dark Mode**.
 - Enhance with **animations** using Framer Motion.
 - Add **e2e tests** with Cypress.
+- Add **internationalization** feature.
+- Enhance **UX/UI** design with [Pokedex UI Study](https://www.behance.net/gallery/146710797/Pokedex-Ui-Study).
+- Implement **Storybook**.
 
 ---
 
